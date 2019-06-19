@@ -6,4 +6,8 @@ public class Customer {
 
         System.out.println("Wenhan, I LOVE YOU!!");
     }
+
+    public void test(){
+        System.out.println("你好！");
+    }
 }
